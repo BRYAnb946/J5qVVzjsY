@@ -1,4 +1,3 @@
-coverage:
   # Commit status https://docs.codecov.io/docs/commit-status are used
   # to block PR based on coverage threshold.
   status:
