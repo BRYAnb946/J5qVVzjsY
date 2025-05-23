@@ -20,6 +20,5 @@ project {
     ".goreleaser.yml",
   ]
 
-  # (OPTIONAL) Links to an upstream repo for determining repo relationships
   upstream = "GoogleCloudPlatform/magic-modules"
 }
