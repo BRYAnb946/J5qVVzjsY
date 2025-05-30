@@ -13,7 +13,6 @@ project {
     "examples/**",
     "scripts/**",
     "google/**/test-fixtures/**",
-    "META.d/*.yml",
     "META.d/*.yaml",
     ".goreleaser.yml",
   ]
