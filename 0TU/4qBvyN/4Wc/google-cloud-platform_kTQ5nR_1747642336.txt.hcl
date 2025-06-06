@@ -11,7 +11,6 @@ project {
     # https://github.com/hashicorp/copywrite/blob/4af928579f5aa8f1dece9de1bb3098218903053d/addlicense/main.go#L357-L394
     ".changelog/**",
     "examples/**",
-    "scripts/**",
     "google/**/test-fixtures/**",
     "META.d/*.yaml",
     ".goreleaser.yml",
