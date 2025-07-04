@@ -38,7 +38,6 @@ spec:
                 max: 5
               rollout:
                 strategy:
-                    blueGreen: 
                       activeService: chip
                       previewService: chip-green
                       autoPromotionEnabled: false
