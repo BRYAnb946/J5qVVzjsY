@@ -19,7 +19,6 @@ COMMITMENT text eol=lf
 *.so binary
 *.wav binary
 *.zip binary
-*.x32 binary
 *.x64 binary
 *.exe binary
 *.sln binary
