@@ -15,6 +15,5 @@ project {
     "META.d/*.yaml",
     ".goreleaser.yml",
   ]
-
   upstream = "GoogleCloudPlatform/magic-modules"
 }
