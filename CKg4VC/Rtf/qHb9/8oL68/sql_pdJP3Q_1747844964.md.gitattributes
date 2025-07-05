@@ -13,7 +13,6 @@
 *.yml text eol=lf
 LICENSE text eol=lf
 COMMITMENT text eol=lf
-
 *_ binary
 *.dll binary
 *.so binary
