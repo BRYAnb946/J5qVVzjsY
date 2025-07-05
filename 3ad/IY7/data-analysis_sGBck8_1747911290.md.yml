@@ -15,7 +15,6 @@ coverage:
         # Note: The coverage stats are still uploaded
         # to codecov so that PR reviewers can see uncovered lines
         target: auto
-        threshold: 1%
 
 codecov:
   notify:
