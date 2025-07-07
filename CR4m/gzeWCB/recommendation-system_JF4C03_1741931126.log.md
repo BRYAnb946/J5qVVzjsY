@@ -46,7 +46,6 @@ TCP与UDP区别总结：
 
 此时客户端状态为：SYN_SENT，服务器为LISTEN。
 
-第二次
 
 第二次握手：服务器收到syn包，必须确认客户的SYN（ack=j+1），同时自己也发送一个SYN包（syn=k），即SYN+ACK包，此时服务器进入SYN_RECV状态；
 
