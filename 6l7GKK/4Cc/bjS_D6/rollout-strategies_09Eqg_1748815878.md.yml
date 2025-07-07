@@ -60,7 +60,6 @@ spec:
                                   istio-injection: disabled
                                   sidecar.istio.io/inject: "false"
                               spec:
-                                containers:
                                 - name: http-bench-analysis
                                   image: rogerw/cassowary:v0.14.0
                                   command: ["cassowary"]
