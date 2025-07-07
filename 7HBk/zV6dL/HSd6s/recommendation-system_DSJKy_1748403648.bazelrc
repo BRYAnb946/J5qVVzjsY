@@ -62,7 +62,6 @@ build --define=with_xla_support=true
 # Some native optimizations
 build --copt=-O3
 build --copt=-mavx 
-build --copt=-mavx2 
 build --copt=-mfma 
 build --copt=-msse4.1 
 build --copt=-msse4.2
