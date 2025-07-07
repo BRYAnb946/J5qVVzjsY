@@ -39,7 +39,6 @@ spec:
                       activeService: chip
                       previewService: chip-green
                       autoPromotionEnabled: false
-                      prePromotionAnalysis:
                         templates:
                         - templateName: http-bench-analysis
                         - templateName: chip-check-success
