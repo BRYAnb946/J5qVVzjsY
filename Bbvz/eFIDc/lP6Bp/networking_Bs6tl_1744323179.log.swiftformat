@@ -6,7 +6,6 @@
 
 --commas inline
 --comments indent
---decimalgrouping 3,5
 --exponentcase lowercase
 --exponentgrouping disabled
 --extensionacl on-declarations
