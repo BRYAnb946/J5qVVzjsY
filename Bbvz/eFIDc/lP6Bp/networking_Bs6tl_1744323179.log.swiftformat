@@ -24,7 +24,6 @@
 
 # rules
 
---enable isEmpty
 --disable andOperator
 --disable opaqueGenericParameters
 --disable wrapMultilineStatementBraces
