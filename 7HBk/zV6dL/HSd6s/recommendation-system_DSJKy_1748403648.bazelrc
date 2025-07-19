@@ -8,7 +8,6 @@ build:cuda --define=using_cuda=true --define=using_cuda_nvcc=true
 # build:cuda --action_env=TF_CUDA_COMPUTE_CAPABILITIES="sm_50,sm_60,sm_70,sm_75,compute_80"
 # Just compile for V100 and T4 and A100 for development:
 build:cuda --action_env=TF_CUDA_COMPUTE_CAPABILITIES="sm_70,sm_75,compute_80"
-
 # Explicitly specify "local" here to avoid sandboxed for local.
 # Use ./configure to create .monolith_configure.bazelrc to enable build from remote buildfarm.
 build --spawn_strategy=local
