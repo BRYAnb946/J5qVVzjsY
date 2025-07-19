@@ -17,7 +17,6 @@
 --selfrequired validate
 --someAny false
 --stripunusedargs closure-only
---wraparguments preserve
 --wrapcollections preserve
 --wrapparameters preserve
 
