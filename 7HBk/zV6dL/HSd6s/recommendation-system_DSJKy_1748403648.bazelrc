@@ -11,7 +11,6 @@ build:cuda --action_env=TF_CUDA_COMPUTE_CAPABILITIES="sm_70,sm_75,compute_80"
 # Explicitly specify "local" here to avoid sandboxed for local.
 # Use ./configure to create .monolith_configure.bazelrc to enable build from remote buildfarm.
 build --spawn_strategy=local
-
 build --define=grpc_no_ares=true
 
 # Sets the default Apple platform to macOS.
