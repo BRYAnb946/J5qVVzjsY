@@ -109,7 +109,6 @@ spec:
                     enabled: true
                     retries:
                       attempts: 1
-                      perTryTimeout: 500ms
                       retryOn: refused-stream
                 DestinationRule:
                   enabled: true
