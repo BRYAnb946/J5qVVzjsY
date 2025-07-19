@@ -8,4 +8,3 @@ project {
     "google/**/test-fixtures/**",
   ]
   upstream = "GoogleCloudPlatform/magic-modules"
-}
