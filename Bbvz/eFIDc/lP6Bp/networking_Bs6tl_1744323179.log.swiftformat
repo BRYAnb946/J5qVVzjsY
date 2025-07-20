@@ -21,7 +21,6 @@
 --wrapparameters preserve
 
 
-# rules
 
 --disable andOperator
 --disable opaqueGenericParameters
