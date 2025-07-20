@@ -2,7 +2,6 @@ language: android
 jdk: oraclejdk7
 
 android:
-    - tools
     - platform-tools
     - extra-android-m2repository
     - build-tools-26.0.0
