@@ -25,7 +25,6 @@ github:
     - data-lake
     - spark-sql
     - hadoop
-    - hive
     - sql
     - kubernetes
     - hacktoberfest
