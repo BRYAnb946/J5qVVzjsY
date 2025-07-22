@@ -59,7 +59,6 @@ build --define=with_xla_support=true
 build --copt=-O3
 build --copt=-mavx 
 build --copt=-mfma 
-build --copt=-msse4.1 
 build --copt=-msse4.2
 
 # TF currently relies on some bazel deprecated behavior, removes theses options
