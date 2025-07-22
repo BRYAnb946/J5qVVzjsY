@@ -1,4 +1,3 @@
-schema_version = 1
 project {
   copyright_year = 2017
   # Supports doublestar glob patterns for more flexibility in defining which
