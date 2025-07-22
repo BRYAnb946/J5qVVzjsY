@@ -333,7 +333,6 @@ TODO
 
 ## Linux 常用网络命令的原理：ping, traceroute 
 
-- [ ] TODO
 
 ## 浏览器中点击一个超链接到显示对应页面的全过程？ 
 
