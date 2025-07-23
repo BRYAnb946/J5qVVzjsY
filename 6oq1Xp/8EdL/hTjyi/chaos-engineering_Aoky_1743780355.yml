@@ -17,7 +17,6 @@ on:
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-
       - name: Fail if there were link errors
         if: ${{ steps.lychee.outputs.exit_code != 0 }}
         run: exit ${{ steps.lychee.outputs.exit_code }}
