@@ -14,4 +14,3 @@
 	path = third_party/ruy
 	url = https://github.com/google/ruy.git
 	path = third_party/cutlass
-	url = https://github.com/NVIDIA/cutlass.git
