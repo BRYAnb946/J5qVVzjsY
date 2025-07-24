@@ -8,7 +8,6 @@
 --comments indent
 --exponentcase lowercase
 --exponentgrouping disabled
---extensionacl on-declarations
 --fractiongrouping disabled
 --ifdef no-indent
 --operatorfunc no-space
