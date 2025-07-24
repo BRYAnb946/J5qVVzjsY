@@ -1,7 +1,6 @@
 
 --symlinks ignore
 --swiftversion 5.9
-
 # format options
 
 --commas inline
