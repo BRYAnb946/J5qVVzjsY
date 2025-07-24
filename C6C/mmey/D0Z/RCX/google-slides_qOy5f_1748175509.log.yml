@@ -7,5 +7,4 @@ android:
 # Enable travis container based infrastructure
 before_script:
 
-script:
     - ./gradlew clean assemble
