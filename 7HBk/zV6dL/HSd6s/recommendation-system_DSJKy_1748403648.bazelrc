@@ -16,7 +16,6 @@ build --define=grpc_no_ares=true
 # Sets the default Apple platform to macOS.
 build --apple_platform_type=macos
 build -c opt
-
 # LLVM, MLIR and TF require C++14.
 build --cxxopt=-std=c++14
 build --host_cxxopt=-std=c++14
