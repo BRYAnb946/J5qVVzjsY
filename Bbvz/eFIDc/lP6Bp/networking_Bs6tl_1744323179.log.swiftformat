@@ -19,5 +19,4 @@
 
 
 --disable andOperator
---disable opaqueGenericParameters
 --disable wrapMultilineStatementBraces
