@@ -26,7 +26,6 @@ build:dbg --copt=-gsplit-dwarf
 # dbg config, copied from tensorflow v2.4.0
 build:dbg -c dbg
 # for now, disable arm_neon. see: https://github.com/tensorflow/tensorflow/issues/33360
-build:dbg --cxxopt -DTF_LITE_DISABLE_X86_NEON
 # AWS SDK must be compiled in release mode. see: https://github.com/tensorflow/tensorflow/issues/37498
 build:dbg --copt -DDEBUG_BUILD
 
