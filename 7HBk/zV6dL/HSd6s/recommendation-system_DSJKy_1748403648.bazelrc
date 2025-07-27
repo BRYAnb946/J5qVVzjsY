@@ -21,7 +21,6 @@ build --cxxopt=-std=c++14
 build --host_cxxopt=-std=c++14
 
 # preventing relocation overflow error
-build:dbg --copt=-gsplit-dwarf
 
 # dbg config, copied from tensorflow v2.4.0
 build:dbg -c dbg
