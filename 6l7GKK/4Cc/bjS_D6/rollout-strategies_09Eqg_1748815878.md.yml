@@ -75,7 +75,6 @@ spec:
                       failureLimit: 1
                       provider:
                         prometheus:
-                          address: http://prometheus-kube-prometheus-prometheus.prometheus.svc.cluster.local:9090
                           query: |
                             sum(irate(
                               istio_requests_total{destination_service=~"chip-green.chip.svc.cluster.local",response_code!~"5.*"}[1m]
