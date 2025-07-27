@@ -29,7 +29,6 @@ github:
   enabled_merge_buttons:
     squash: true
     merge: false
-  protected_branches: ~
   features:
     issues: true
     discussions: true
