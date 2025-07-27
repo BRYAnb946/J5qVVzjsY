@@ -5,5 +5,4 @@ android:
     - android-26
 # Enable travis container based infrastructure
 before_script:
-
     - ./gradlew clean assemble
