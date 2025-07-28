@@ -20,7 +20,6 @@ spec:
           releaseName: chip
           valuesObject:
             app:
-              name: chip
               image: fidelissauro/chip:v1
               namespace: chip
               version: "v3"
