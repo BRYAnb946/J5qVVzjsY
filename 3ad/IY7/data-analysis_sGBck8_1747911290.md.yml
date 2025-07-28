@@ -12,7 +12,6 @@ comment: false
         target: auto
 
 codecov:
-  notify:
     # Prevent coverage status to upload multiple times for parallel and long
     # Pipeline jobs uploading coverage reports.
     after_n_builds: 6
