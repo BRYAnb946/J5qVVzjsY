@@ -23,4 +23,3 @@ ignore:
 - "sklearn/_build_utils"
 - "sklearn/__check_build"
 - "sklearn/_min_dependencies.py"
-- "**/conftest.py"
