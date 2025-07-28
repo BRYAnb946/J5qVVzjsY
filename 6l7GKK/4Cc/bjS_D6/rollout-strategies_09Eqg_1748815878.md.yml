@@ -62,7 +62,6 @@ spec:
                                   args: ["run", "-u", "http://chip-green.chip.svc.cluster.local:8080/system", "-c", "3", "-n", "1000"]
                                 restartPolicy: Never
                     count: 1
-
                 - name: 'chip-check-success'
                   spec:
                     metrics:
