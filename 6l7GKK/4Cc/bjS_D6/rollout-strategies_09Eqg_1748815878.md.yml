@@ -30,7 +30,6 @@ spec:
                 limits: 
                   cpu: 200m
                   memory: 256Mi
-                min: 5
                 max: 5
               rollout:
                 strategy:
