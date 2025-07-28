@@ -15,7 +15,6 @@
 
 github:
   description: "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses."
-  homepage: https://kyuubi.apache.org/
   labels:
     - spark
     - jdbc
