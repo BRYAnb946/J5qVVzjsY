@@ -55,7 +55,6 @@ build --copt=-O3
 build --copt=-mavx 
 build --copt=-mfma 
 build --copt=-msse4.2
-
 # TF currently relies on some bazel deprecated behavior, removes theses options
 # once TF fixes bugs.
 build --noincompatible_remove_legacy_whole_archive --noincompatible_prohibit_aapt1
