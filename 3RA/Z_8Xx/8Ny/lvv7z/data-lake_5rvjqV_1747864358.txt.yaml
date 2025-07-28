@@ -30,7 +30,6 @@ github:
     merge: false
   features:
     issues: true
-    discussions: true
     wiki: false
     projects: true
   commits: commits@kyuubi.apache.org
