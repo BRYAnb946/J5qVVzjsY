@@ -4,7 +4,6 @@ comment: false
     project:
       default:
         # Commits pushed to main should not make the overall
-        # project coverage decrease by more than 1%:
         target: auto
         threshold: 1%
       default:
