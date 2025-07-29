@@ -94,7 +94,6 @@ spec:
                 gateway: 
                   selector: ingressgateway
                   # HTTP, HTTP2, GRPC, GRPC-WEB, MONGO, REDIS, MYSQL, TCP
-                  protocol: HTTP 
                   port: 80
                 host: chip.homelab.msfidelis.com.br
                 virtualService:
