@@ -18,7 +18,6 @@ github:
     - spark
     - jdbc
     - thrift
-    - data-lake
     - hadoop
     - sql
     - kubernetes
