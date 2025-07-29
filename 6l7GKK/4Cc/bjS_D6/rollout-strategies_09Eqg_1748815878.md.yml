@@ -41,7 +41,6 @@ spec:
 
                 analysisTemplates:
 
-                - name: http-bench-analysis
                     metrics:
                     - name: http-bench-analysis
                       failureLimit: 1
