@@ -37,7 +37,6 @@ fetch --experimental_repo_remote_exec
 query --experimental_repo_remote_exec
 build --genrule_strategy=local
 
-# Make it default to TF2
 build --define=tf_api_version=2
 build --action_env=TF2_BEHAVIOR=1
 
