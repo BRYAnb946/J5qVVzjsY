@@ -104,7 +104,6 @@ spec:
                       retryOn: refused-stream
                 DestinationRule:
                   enabled: true
-
               prometheus:
                 scrape: "true"
                 path: /metrics
