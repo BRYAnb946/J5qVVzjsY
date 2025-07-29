@@ -49,7 +49,6 @@ spec:
                           spec:
                             backoffLimit: 1
                             template:
-                              metadata:
                                 labels:
                                   istio-injection: disabled
                                   sidecar.istio.io/inject: "false"
